@@ -1,6 +1,8 @@
 ---
-version: 0.9.0
+version: 1.1.2
 title: Temeller
+redirect_from:
+  - /lessons/basics/basics/
 ---
 
 Temel veri tipleri ve temel operasyonlar ile başlayalım.
@@ -246,7 +248,7 @@ iex> {:hello, :world} > [1, 2, 3]
 false
 ```
 
-### Stringlere Şablonları (Interpolation)
+### String Şablonları (Interpolation)
 
 Eğer siz Ruby kullandıysanız, string şablonları (interpolation) Elixirin yöntemi tanıdık gelecektir:
 
